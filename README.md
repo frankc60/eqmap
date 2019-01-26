@@ -1,4 +1,4 @@
-## EARTHQUAKE MAP
+# EARTHQUAKE MAP
 
 Written in ps5.js, javascript and html. using:<br/>
 https://www.mapbox.com/<br/>
