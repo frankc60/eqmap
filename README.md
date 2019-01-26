@@ -1,5 +1,8 @@
 # EARTHQUAKE MAP
 
+Real-time Active Earthquake Map of New Zealand.
+
+## Technologies
 Written in ps5.js, javascript and html. using:<br/>
 https://www.mapbox.com/<br/>
 https://earthquake.usgs.gov<br/>
